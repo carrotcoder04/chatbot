@@ -3,6 +3,8 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
+    bm25_weight: float = 0.5       # thêm dòng này
+    semantic_weight: float = 0.5   # thêm dòng này
     GEMINI_API_KEY: str = ""
     LLM_PROVIDER: str = "gemini"  # "gemini" hoặc "ollama"
     OLLAMA_MODEL: str = "qwen2.5:7b"
