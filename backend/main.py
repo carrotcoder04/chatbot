@@ -53,7 +53,7 @@ async def lifespan(app: FastAPI):
             retriever, 
             api_key=settings.GEMINI_API_KEY,
             provider="gemini",
-            model_name="gemini-1.5-flash-latest"
+            model_name="gemini-2.5-flash"
         )
         if settings.GEMINI_API_KEY:
             print("[SUCCESS] ChatEngine ready (GEMINI)")

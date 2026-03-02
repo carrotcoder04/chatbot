@@ -67,7 +67,7 @@ class ChatEngine:
         retriever: HybridRetriever,
         api_key: str = "",
         provider: str = "gemini",
-        model_name: str = "gemini-1.5-flash-latest",
+        model_name: str = "gemini-2.5-flash",
     ):
         self.retriever = retriever
         self.prompt_builder = PromptBuilder()

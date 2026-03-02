@@ -41,7 +41,6 @@ share/python-wheels/
 MANIFEST
 
 # Environment sets
-.env
 .venv
 env/
 venv/

@@ -63,6 +63,7 @@ Dự án được xây dựng theo mô hình **Decoupled Architecture** (tách b
 3. Tạo file `.env` từ `.env.example` và điền `GEMINI_API_KEY`.
 4. Index dữ liệu lần đầu:
    ```bash
+   cd ..
    python -m backend.core.indexer
    ```
 5. Chạy server:
