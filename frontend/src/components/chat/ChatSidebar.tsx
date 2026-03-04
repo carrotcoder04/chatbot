@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Plus, Settings, History } from "lucide-react";
+import { Plus, MessageSquare, ChevronRight } from "lucide-react";
+import { PtitIcon } from "@/components/PtitIcon";
 import { cn } from "@/lib/utils";
 
 interface Conversation {
@@ -12,18 +13,23 @@ interface Conversation {
 
 interface SidebarProps {
     onNewChat: () => void;
-    onOpenSettings: () => void;
     onSelectChat: (id: string) => void;
     currentChatId: string | null;
     className?: string;
 }
 
-export function ChatSidebar({ onNewChat, onOpenSettings, onSelectChat, currentChatId, className }: SidebarProps) {
+export function ChatSidebar({
+    onNewChat,
+    onSelectChat,
+    currentChatId,
+    className,
+}: SidebarProps) {
     const [conversations, setConversations] = useState<Conversation[]>([]);
+    const [hoveredId, setHoveredId] = useState<string | null>(null);
 
     useEffect(() => {
         fetchConversations();
-    }, [currentChatId]); // Refresh when current chat changes
+    }, [currentChatId]);
 
     const fetchConversations = async () => {
         try {
@@ -38,66 +44,186 @@ export function ChatSidebar({ onNewChat, onOpenSettings, onSelectChat, currentCh
     };
 
     return (
-        <div className={cn("flex flex-col h-full bg-white text-slate-800 w-64 border-r border-slate-200", className)}>
-            {/* Header / Logo */}
-            <div className="p-5 flex flex-col gap-4 border-b border-slate-100 mb-2">
-                <div className="w-fit">
-                    <img src="/logo-ptit-1.svg" alt="PTIT Logo" className="h-10 w-auto" />
+        <aside
+            className={cn("flex flex-col h-full shrink-0", className)}
+            style={{
+                width: "260px",
+                minWidth: "260px",
+                maxWidth: "260px",
+                background: "#111111",
+                borderRight: "1px solid rgba(255,255,255,0.06)",
+            }}
+        >
+            {/* ── Logo / Brand ── */}
+            <div
+                style={{
+                    padding: "20px 16px 16px",
+                    borderBottom: "1px solid rgba(255,255,255,0.06)",
+                    flexShrink: 0,
+                }}
+            >
+                {/* Logo row */}
+                <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "14px" }}>
+                    <div
+                        style={{
+                            width: "36px",
+                            height: "36px",
+                            minWidth: "36px",
+                            borderRadius: "10px",
+                            display: "flex",
+                            alignItems: "center",
+                            justifyContent: "center",
+                            background: "rgba(196,30,34,0.15)",
+                            border: "1px solid rgba(196,30,34,0.25)",
+                        }}
+                    >
+                        <PtitIcon size={20} color="#C41E22" />
+                    </div>
+                    <div style={{ minWidth: 0 }}>
+                        <div
+                            style={{
+                                fontSize: "14px",
+                                fontWeight: 700,
+                                color: "#f0f0f0",
+                                lineHeight: 1.2,
+                                whiteSpace: "nowrap",
+                            }}
+                        >
+                            PTIT Chatbot
+                        </div>
+                        <div
+                            style={{
+                                fontSize: "10px",
+                                fontWeight: 600,
+                                color: "#505050",
+                                textTransform: "uppercase",
+                                letterSpacing: "0.1em",
+                                marginTop: "2px",
+                            }}
+                        >
+                            Tư vấn tuyển sinh
+                        </div>
+                    </div>
                 </div>
-                <div>
-                    <h1 className="font-bold text-lg leading-tight tracking-tight text-slate-900">PTIT Chatbot</h1>
-                    <p className="text-[10px] text-slate-400 uppercase font-bold tracking-widest">Tư vấn tuyển sinh</p>
-                </div>
-            </div>
 
-            {/* New Chat Button */}
-            <div className="px-3 mb-4 pt-2">
+                {/* New Chat Button */}
                 <button
                     onClick={onNewChat}
-                    className="w-full flex items-center justify-center gap-2 bg-[#C41E22] hover:bg-[#A3161A] text-white transition-all p-3 rounded-xl font-bold text-sm shadow-lg shadow-red-200"
+                    style={{
+                        width: "100%",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        gap: "6px",
+                        padding: "10px 16px",
+                        borderRadius: "10px",
+                        background: "#C41E22",
+                        color: "#fff",
+                        border: "none",
+                        cursor: "pointer",
+                        fontSize: "13px",
+                        fontWeight: 600,
+                        boxShadow: "0 4px 16px rgba(196,30,34,0.30)",
+                        transition: "background 0.15s",
+                    }}
+                    onMouseEnter={e => (e.currentTarget.style.background = "#A3161A")}
+                    onMouseLeave={e => (e.currentTarget.style.background = "#C41E22")}
                 >
-                    <Plus size={18} />
+                    <Plus size={15} strokeWidth={2.5} />
                     Cuộc trò chuyện mới
                 </button>
             </div>
 
-            {/* Chat History List */}
-            <div className="flex-1 overflow-y-auto px-3 space-y-1">
-                <div className="text-[10px] uppercase tracking-wider text-slate-400 font-bold mb-2 ml-1">Lịch sử trò chuyện</div>
+            {/* ── Conversation List ── */}
+            <div
+                style={{
+                    flex: 1,
+                    overflowY: "auto",
+                    padding: "12px 8px",
+                }}
+            >
+                <div
+                    style={{
+                        fontSize: "10px",
+                        fontWeight: 700,
+                        textTransform: "uppercase",
+                        letterSpacing: "0.08em",
+                        color: "#3a3a3a",
+                        padding: "0 8px",
+                        marginBottom: "6px",
+                    }}
+                >
+                    Lịch sử
+                </div>
+
                 {conversations.length === 0 ? (
-                    <div className="text-xs text-slate-400 ml-1 italic">Chưa có hội thoại</div>
+                    <div
+                        style={{
+                            display: "flex",
+                            flexDirection: "column",
+                            alignItems: "center",
+                            gap: "8px",
+                            padding: "24px 8px",
+                            opacity: 0.4,
+                        }}
+                    >
+                        <MessageSquare size={22} color="#606060" />
+                        <span style={{ fontSize: "12px", color: "#606060" }}>
+                            Chưa có hội thoại nào
+                        </span>
+                    </div>
                 ) : (
-                    conversations.map((conv) => (
-                        <button
-                            key={conv.id}
-                            onClick={() => onSelectChat(conv.id)}
-                            className={cn(
-                                "w-full text-left flex items-center gap-2 p-3 rounded-lg text-sm transition-all group",
-                                currentChatId === conv.id
-                                    ? "bg-red-50 text-[#C41E22] font-medium"
-                                    : "hover:bg-slate-50 text-slate-600 hover:text-[#C41E22]"
-                            )}
-                        >
-                            <History size={14} className={cn(
-                                "shrink-0",
-                                currentChatId === conv.id ? "text-[#C41E22]" : "text-slate-400 group-hover:text-[#C41E22]"
-                            )} />
-                            <span className="truncate">{conv.title}</span>
-                        </button>
-                    ))
+                    <ul style={{ listStyle: "none", display: "flex", flexDirection: "column", gap: "2px" }}>
+                        {conversations.map((conv, i) => {
+                            const isActive = currentChatId === conv.id;
+                            const isHovered = hoveredId === conv.id;
+                            return (
+                                <li key={conv.id} className="anim-fade-in" style={{ animationDelay: `${i * 0.04}s` }}>
+                                    <button
+                                        onClick={() => onSelectChat(conv.id)}
+                                        onMouseEnter={() => setHoveredId(conv.id)}
+                                        onMouseLeave={() => setHoveredId(null)}
+                                        style={{
+                                            width: "100%",
+                                            textAlign: "left",
+                                            display: "flex",
+                                            alignItems: "center",
+                                            gap: "8px",
+                                            padding: "8px 10px",
+                                            borderRadius: "8px",
+                                            border: "none",
+                                            borderLeft: isActive
+                                                ? "2px solid #C41E22"
+                                                : "2px solid transparent",
+                                            background: isActive
+                                                ? "rgba(196,30,34,0.10)"
+                                                : isHovered
+                                                ? "rgba(255,255,255,0.04)"
+                                                : "transparent",
+                                            color: isActive ? "#f87171" : "#909090",
+                                            cursor: "pointer",
+                                            fontSize: "13px",
+                                            transition: "all 0.15s",
+                                        }}
+                                    >
+                                        <MessageSquare
+                                            size={13}
+                                            style={{ flexShrink: 0, color: isActive ? "#f87171" : "#484848" }}
+                                        />
+                                        <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", flex: 1 }}>
+                                            {conv.title}
+                                        </span>
+                                        {isActive && (
+                                            <ChevronRight size={11} style={{ flexShrink: 0, color: "#f87171", opacity: 0.7 }} />
+                                        )}
+                                    </button>
+                                </li>
+                            );
+                        })}
+                    </ul>
                 )}
             </div>
 
-            {/* Footer / Settings */}
-            <div className="p-3 border-t border-slate-100">
-                <button
-                    onClick={onOpenSettings}
-                    className="w-full flex items-center gap-2 p-3 rounded-lg hover:bg-slate-100 text-sm text-slate-600 hover:text-slate-900 transition-all"
-                >
-                    <Settings size={18} className="text-slate-400" />
-                    Cài đặt AI
-                </button>
-            </div>
-        </div>
+        </aside>
     );
 }
