@@ -59,6 +59,17 @@ async def lifespan(app: FastAPI):
             print("[SUCCESS] ChatEngine ready (GEMINI)")
         else:
             print("[WARN] GEMINI_API_KEY missing. Please configure in .env or via UI.")
+    elif provider == "openrouter":
+        chat_engine = ChatEngine(
+            retriever, 
+            api_key=settings.OPENROUTER_API_KEY,
+            provider="openrouter",
+            model_name=settings.OPENROUTER_MODEL
+        )
+        if settings.OPENROUTER_API_KEY:
+            print("[SUCCESS] ChatEngine ready (OPENROUTER)")
+        else:
+            print("[WARN] OPENROUTER_API_KEY missing. Please configure in .env or via UI.")
     elif provider == "ollama":
         chat_engine = ChatEngine(
             retriever,

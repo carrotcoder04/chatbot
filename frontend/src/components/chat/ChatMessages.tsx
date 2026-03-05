@@ -28,14 +28,15 @@ export function ChatMessage({
             className="group anim-fade-up"
             style={{
                 animationDelay: `${Math.min(index * 0.04, 0.3)}s`,
-                background: isBot ? "rgba(255,255,255,0.018)" : "transparent",
-                borderBottom: "1px solid rgba(255,255,255,0.04)",
+                background: isBot ? "var(--bg-hover)" : "transparent",
+                borderBottom: "1px solid var(--border-subtle)",
                 transition: "background 0.2s",
             }}
         >
             <div
                 style={{
                     display: "flex",
+                    flexDirection: isBot ? "row" : "row-reverse",
                     gap: "14px",
                     padding: "20px 24px",
                     maxWidth: "900px",
@@ -51,7 +52,7 @@ export function ChatMessage({
                                 width: "32px",
                                 height: "32px",
                                 minWidth: "32px",
-                                borderRadius: "9px",
+                                borderRadius: "0px",
                                 display: "flex",
                                 alignItems: "center",
                                 justifyContent: "center",
@@ -67,21 +68,21 @@ export function ChatMessage({
                                 width: "32px",
                                 height: "32px",
                                 minWidth: "32px",
-                                borderRadius: "9px",
+                                borderRadius: "0px",
                                 display: "flex",
                                 alignItems: "center",
                                 justifyContent: "center",
-                                background: "rgba(255,255,255,0.07)",
-                                border: "1px solid rgba(255,255,255,0.10)",
+                                background: "var(--bg-elevated)",
+                                border: "1px solid var(--border-default)",
                             }}
                         >
-                            <User size={14} color="#a0a0a0" />
+                            <User size={14} color="var(--text-secondary)" />
                         </div>
                     )}
                 </div>
 
                 {/* Content */}
-                <div style={{ flex: 1, minWidth: 0 }}>
+                <div style={{ flex: 1, minWidth: 0, textAlign: isBot ? "left" : "right" }}>
                     {/* Name + Badge */}
                     <div
                         style={{
@@ -89,10 +90,11 @@ export function ChatMessage({
                             alignItems: "center",
                             gap: "8px",
                             marginBottom: "10px",
+                            justifyContent: isBot ? "flex-start" : "flex-end",
                         }}
                     >
-                        <span style={{ fontSize: "13px", fontWeight: 600, color: "#ececec" }}>
-                            {isBot ? "PTIT Advisor" : "Bạn"}
+                        <span style={{ fontSize: "13px", fontWeight: 600, color: "var(--text-primary)" }}>
+                            {isBot ? "PTIT Chatbot" : "Bạn"}
                         </span>
                         {isBot && (
                             <span
@@ -102,10 +104,10 @@ export function ChatMessage({
                                     letterSpacing: "0.08em",
                                     textTransform: "uppercase",
                                     padding: "2px 6px",
-                                    borderRadius: "4px",
+                                    borderRadius: "0px",
                                     background: "rgba(196,30,34,0.12)",
-                                    color: "#f87171",
-                                    border: "1px solid rgba(196,30,34,0.20)",
+                                    color: "var(--brand)",
+                                    border: "1px solid rgba(196,30,34,0.40)",
                                 }}
                             >
                                 AI
@@ -137,14 +139,15 @@ export function ChatMessage({
                                     fontWeight: 700,
                                     textTransform: "uppercase",
                                     letterSpacing: "0.08em",
-                                    color: "#505050",
+                                    color: "var(--text-secondary)",
                                     marginBottom: "8px",
+                                    justifyContent: isBot ? "flex-start" : "flex-end",
                                 }}
                             >
                                 <BookOpen size={10} />
                                 Nguồn tham khảo
                             </div>
-                            <div style={{ display: "flex", flexWrap: "wrap", gap: "6px" }}>
+                            <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", justifyContent: isBot ? "flex-start" : "flex-end" }}>
                                 {message.sources.map((source, i) => (
                                     <span
                                         key={i}
@@ -152,9 +155,9 @@ export function ChatMessage({
                                             fontSize: "11px",
                                             padding: "3px 8px",
                                             borderRadius: "5px",
-                                            background: "rgba(255,255,255,0.04)",
-                                            border: "1px solid rgba(255,255,255,0.08)",
-                                            color: "#707070",
+                                            background: "var(--bg-hover)",
+                                            border: "1px solid var(--border-default)",
+                                            color: "var(--text-secondary)",
                                         }}
                                     >
                                         {source.length > 80 ? source.substring(0, 80) + "…" : source}
@@ -177,10 +180,10 @@ export function ChatMessage({
                                     alignItems: "center",
                                     gap: "5px",
                                     padding: "5px 10px",
-                                    borderRadius: "6px",
-                                    border: "1px solid rgba(255,255,255,0.08)",
-                                    background: "rgba(255,255,255,0.04)",
-                                    color: copied ? "#4ade80" : "#606060",
+                                    borderRadius: "0px",
+                                    border: "1px solid var(--border-strong)",
+                                    background: "var(--bg-elevated)",
+                                    color: copied ? "#16a34a" : "var(--text-primary)",
                                     cursor: "pointer",
                                     fontSize: "11px",
                                     transition: "all 0.15s",
@@ -206,8 +209,8 @@ export function TypingIndicator() {
         <div
             className="anim-fade-up"
             style={{
-                background: "rgba(255,255,255,0.018)",
-                borderBottom: "1px solid rgba(255,255,255,0.04)",
+                background: "var(--bg-hover)",
+                borderBottom: "1px solid var(--border-subtle)",
             }}
         >
             <div
@@ -225,7 +228,7 @@ export function TypingIndicator() {
                         width: "32px",
                         height: "32px",
                         minWidth: "32px",
-                        borderRadius: "9px",
+                        borderRadius: "0px",
                         display: "flex",
                         alignItems: "center",
                         justifyContent: "center",
@@ -280,8 +283,8 @@ export function ChatInput({
             style={{
                 flexShrink: 0,
                 padding: "12px 24px 20px",
-                borderTop: "1px solid rgba(255,255,255,0.06)",
-                background: "#0d0d0d",
+                borderTop: "1px solid var(--border-subtle)",
+                background: "var(--bg-base)",
             }}
         >
             {/* Constrained width, centered */}
@@ -292,11 +295,10 @@ export function ChatInput({
                         alignItems: "flex-end",
                         gap: "10px",
                         padding: "8px 10px 8px 16px",
-                        borderRadius: "14px",
-                        background: "#1a1a1a",
-                        border: `1px solid ${canSend ? "rgba(196,30,34,0.30)" : "rgba(255,255,255,0.09)"}`,
-                        boxShadow: canSend ? "0 0 0 3px rgba(196,30,34,0.07)" : "none",
-                        transition: "border-color 0.2s, box-shadow 0.2s",
+                        borderRadius: "0px",
+                        background: "var(--bg-surface)",
+                        border: `2px solid ${canSend ? "var(--brand)" : "var(--border-default)"}`,
+                        transition: "border-color 0.1s",
                     }}
                 >
                     <textarea
@@ -312,7 +314,7 @@ export function ChatInput({
                             background: "transparent",
                             border: "none",
                             outline: "none",
-                            color: "#e0e0e0",
+                            color: "var(--text-primary)",
                             fontSize: "14px",
                             lineHeight: "1.6",
                             padding: "4px 0",
@@ -330,16 +332,14 @@ export function ChatInput({
                             flexShrink: 0,
                             width: "34px",
                             height: "34px",
-                            borderRadius: "10px",
+                            borderRadius: "0px",
                             border: "none",
-                            background: canSend ? "#C41E22" : "rgba(255,255,255,0.06)",
+                            background: canSend ? "var(--brand)" : "var(--bg-active)",
                             cursor: canSend ? "pointer" : "not-allowed",
                             display: "flex",
                             alignItems: "center",
                             justifyContent: "center",
-                            boxShadow: canSend ? "0 4px 12px rgba(196,30,34,0.35)" : "none",
-                            transform: canSend ? "scale(1)" : "scale(0.88)",
-                            transition: "all 0.2s",
+                            transition: "all 0.1s",
                         }}
                     >
                         {isLoading ? (
@@ -349,15 +349,15 @@ export function ChatInput({
                                     width: "14px",
                                     height: "14px",
                                     borderRadius: "50%",
-                                    border: "2px solid rgba(255,255,255,0.2)",
-                                    borderTopColor: "#fff",
+                                    border: "2px solid rgba(0,0,0,0.1)",
+                                    borderTopColor: "var(--brand)",
                                 }}
                             />
                         ) : (
                             <svg
                                 viewBox="0 0 24 24"
                                 fill="none"
-                                stroke={canSend ? "#fff" : "#404040"}
+                                stroke={canSend ? "#fff" : "var(--text-muted)"}
                                 style={{ width: "15px", height: "15px", strokeWidth: 2.5 }}
                             >
                                 <path d="M5 12h14M12 5l7 7-7 7" />
@@ -370,7 +370,7 @@ export function ChatInput({
                     style={{
                         textAlign: "center",
                         fontSize: "11px",
-                        color: "#3a3a3a",
+                        color: "var(--text-muted)",
                         marginTop: "8px",
                     }}
                 >

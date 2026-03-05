@@ -86,6 +86,11 @@ class ChatEngine:
                     "max_output_tokens": 1024,
                 },
             )
+        elif self.provider == "openrouter":
+            import httpx
+            self.openrouter_client = httpx.Client(base_url="https://openrouter.ai/api/v1", timeout=60.0)
+            self.openrouter_api_key = api_key
+            print(f"  [INFO] ChatEngine using OpenRouter ({model_name})")
         elif self.provider == "ollama":
             import httpx
             self.ollama_client = httpx.Client(base_url="http://localhost:11434", timeout=60.0)
@@ -109,6 +114,25 @@ class ChatEngine:
         if self.provider == "gemini":
             response = self.model.generate_content(prompt)
             answer = response.text.strip()
+        elif self.provider == "openrouter":
+            resp = self.openrouter_client.post(
+                "/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {self.openrouter_api_key}",
+                    "HTTP-Referer": "http://localhost:3000",
+                    "X-Title": "PTIT Chatbot",
+                },
+                json={
+                    "model": self.model_name,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.2,
+                }
+            )
+            data = resp.json()
+            if "choices" in data and len(data["choices"]) > 0:
+                answer = data["choices"][0]["message"]["content"].strip()
+            else:
+                answer = f"Lỗi từ OpenRouter API: {data}"
         else:
             # Ollama API call
             resp = self.ollama_client.post("/api/generate", json={
@@ -158,6 +182,39 @@ class ChatEngine:
             for chunk in response:
                 if chunk.text:
                     yield json.dumps({"token": chunk.text}, ensure_ascii=False)
+        elif provider == "openrouter":
+            import httpx
+            # Fallback to instance api_key if not provided in kwargs
+            used_api_key = api_key or getattr(self, "openrouter_api_key", None)
+            async with httpx.AsyncClient(base_url="https://openrouter.ai/api/v1", timeout=60.0) as client:
+                async with client.stream(
+                    "POST", 
+                    "/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {used_api_key}",
+                        "HTTP-Referer": "http://localhost:3000",
+                        "X-Title": "PTIT Chatbot",
+                    },
+                    json={
+                        "model": model_name,
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.2,
+                        "stream": True
+                    }
+                ) as resp:
+                    async for line in resp.aiter_lines():
+                        if line.startswith("data: "):
+                            data_str = line[6:]
+                            if data_str.strip() == "[DONE]":
+                                break
+                            try:
+                                data = json.loads(data_str)
+                                if "choices" in data and len(data["choices"]) > 0:
+                                    delta = data["choices"][0].get("delta", {})
+                                    if "content" in delta:
+                                        yield json.dumps({"token": delta["content"]}, ensure_ascii=False)
+                            except:
+                                pass
         else:
             # Ollama
             import httpx

@@ -6,7 +6,9 @@ class Settings(BaseSettings):
     bm25_weight: float = 0.5       # thêm dòng này
     semantic_weight: float = 0.5   # thêm dòng này
     GEMINI_API_KEY: str = ""
-    LLM_PROVIDER: str = "gemini"  # "gemini" hoặc "ollama"
+    OPENROUTER_API_KEY: str = ""
+    OPENROUTER_MODEL: str = "arcee-ai/trinity-large-preview:free"
+    LLM_PROVIDER: str = "openrouter"  # "gemini", "ollama", "openrouter"
     OLLAMA_MODEL: str = "qwen2.5:7b"
     EMBEDDING_MODEL: str = "keepitreal/vietnamese-sbert"
     CHUNK_SIZE: int = 256
