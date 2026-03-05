@@ -52,6 +52,7 @@ venv.bak/
 # Project specific
 backend/chatbot.db
 backend/data/processed/
+backend/.env
 
 # IDE
 .idea/
