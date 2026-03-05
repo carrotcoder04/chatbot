@@ -50,15 +50,15 @@ export function ChatSidebar({
                 width: "260px",
                 minWidth: "260px",
                 maxWidth: "260px",
-                background: "#111111",
-                borderRight: "1px solid rgba(255,255,255,0.06)",
+                background: "var(--bg-surface)",
+                borderRight: "1px solid var(--border-subtle)",
             }}
         >
             {/* ── Logo / Brand ── */}
             <div
                 style={{
                     padding: "20px 16px 16px",
-                    borderBottom: "1px solid rgba(255,255,255,0.06)",
+                    borderBottom: "1px solid var(--border-subtle)",
                     flexShrink: 0,
                 }}
             >
@@ -69,7 +69,7 @@ export function ChatSidebar({
                             width: "36px",
                             height: "36px",
                             minWidth: "36px",
-                            borderRadius: "10px",
+                            borderRadius: "0px",
                             display: "flex",
                             alignItems: "center",
                             justifyContent: "center",
@@ -84,7 +84,7 @@ export function ChatSidebar({
                             style={{
                                 fontSize: "14px",
                                 fontWeight: 700,
-                                color: "#f0f0f0",
+                                color: "var(--text-primary)",
                                 lineHeight: 1.2,
                                 whiteSpace: "nowrap",
                             }}
@@ -95,7 +95,7 @@ export function ChatSidebar({
                             style={{
                                 fontSize: "10px",
                                 fontWeight: 600,
-                                color: "#505050",
+                                color: "var(--text-secondary)",
                                 textTransform: "uppercase",
                                 letterSpacing: "0.1em",
                                 marginTop: "2px",
@@ -116,15 +116,14 @@ export function ChatSidebar({
                         justifyContent: "center",
                         gap: "6px",
                         padding: "10px 16px",
-                        borderRadius: "10px",
+                        borderRadius: "0px",
                         background: "#C41E22",
                         color: "#fff",
                         border: "none",
                         cursor: "pointer",
                         fontSize: "13px",
                         fontWeight: 600,
-                        boxShadow: "0 4px 16px rgba(196,30,34,0.30)",
-                        transition: "background 0.15s",
+                        transition: "background 0.1s",
                     }}
                     onMouseEnter={e => (e.currentTarget.style.background = "#A3161A")}
                     onMouseLeave={e => (e.currentTarget.style.background = "#C41E22")}
@@ -148,7 +147,7 @@ export function ChatSidebar({
                         fontWeight: 700,
                         textTransform: "uppercase",
                         letterSpacing: "0.08em",
-                        color: "#3a3a3a",
+                        color: "var(--text-muted)",
                         padding: "0 8px",
                         marginBottom: "6px",
                     }}
@@ -164,11 +163,11 @@ export function ChatSidebar({
                             alignItems: "center",
                             gap: "8px",
                             padding: "24px 8px",
-                            opacity: 0.4,
+                            opacity: 0.8,
                         }}
                     >
-                        <MessageSquare size={22} color="#606060" />
-                        <span style={{ fontSize: "12px", color: "#606060" }}>
+                        <MessageSquare size={22} color="var(--text-muted)" />
+                        <span style={{ fontSize: "12px", color: "var(--text-muted)" }}>
                             Chưa có hội thoại nào
                         </span>
                     </div>
@@ -190,31 +189,31 @@ export function ChatSidebar({
                                             alignItems: "center",
                                             gap: "8px",
                                             padding: "8px 10px",
-                                            borderRadius: "8px",
+                                            borderRadius: "0px",
                                             border: "none",
                                             borderLeft: isActive
-                                                ? "2px solid #C41E22"
-                                                : "2px solid transparent",
+                                                ? "4px solid var(--brand)"
+                                                : "4px solid transparent",
                                             background: isActive
-                                                ? "rgba(196,30,34,0.10)"
+                                                ? "var(--brand-dim)"
                                                 : isHovered
-                                                ? "rgba(255,255,255,0.04)"
-                                                : "transparent",
-                                            color: isActive ? "#f87171" : "#909090",
+                                                    ? "var(--bg-hover)"
+                                                    : "transparent",
+                                            color: isActive ? "var(--brand)" : "var(--text-secondary)",
                                             cursor: "pointer",
                                             fontSize: "13px",
-                                            transition: "all 0.15s",
+                                            transition: "all 0.1s",
                                         }}
                                     >
                                         <MessageSquare
                                             size={13}
-                                            style={{ flexShrink: 0, color: isActive ? "#f87171" : "#484848" }}
+                                            style={{ flexShrink: 0, color: isActive ? "var(--brand)" : "var(--text-muted)" }}
                                         />
                                         <span style={{ overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", flex: 1 }}>
                                             {conv.title}
                                         </span>
                                         {isActive && (
-                                            <ChevronRight size={11} style={{ flexShrink: 0, color: "#f87171", opacity: 0.7 }} />
+                                            <ChevronRight size={11} style={{ flexShrink: 0, color: "var(--brand)", opacity: 0.7 }} />
                                         )}
                                     </button>
                                 </li>
