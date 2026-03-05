@@ -51,15 +51,40 @@ export function useChat() {
             setMessages((prev) => [...prev, { role: "assistant", content: "" }]);
 
             let fullContent = "";
+            let buffer = "";
 
             while (true) {
                 const { done, value } = await reader!.read();
-                if (done) break;
+                if (done) {
+                    // Xử lý nốt phần còn lại của buffer nếu có
+                    if (buffer.trim()) {
+                        const line = buffer.trim();
+                        if (line.startsWith("data: ")) {
+                            const dataStr = line.replace("data: ", "");
+                            try {
+                                const data = JSON.parse(dataStr);
+                                if (data.token) {
+                                    fullContent += data.token;
+                                    setMessages((prev) => {
+                                        const newMsgs = [...prev];
+                                        newMsgs[newMsgs.length - 1].content = fullContent;
+                                        return newMsgs;
+                                    });
+                                }
+                            } catch (e) {}
+                        }
+                    }
+                    break;
+                }
 
-                const chunk = decoder.decode(value);
-                const lines = chunk.split("\n\n");
+                // Decode chunk thành chuỗi string (giữ lại byte dở dang để decode nhịp sau)
+                buffer += decoder.decode(value, { stream: true });
+                const parts = buffer.split("\n\n");
+                
+                // Phần tử cuối cùng trong parts là đoạn text chưa có \n\n (chưa hoàn chỉnh), giữ lại trong buffer
+                buffer = parts.pop() || "";
 
-                for (const line of lines) {
+                for (const line of parts) {
                     if (line.startsWith("data: ")) {
                         const dataStr = line.replace("data: ", "");
                         if (dataStr === "[DONE]") continue;
@@ -87,6 +112,7 @@ export function useChat() {
                             }
                         } catch (e) {
                             // Có thể là text thuần hoặc JSON không đầy đủ, bỏ qua nếu lỗi parse
+                            console.warn("JSON parse error for streamed chunk:", e);
                         }
                     }
                 }

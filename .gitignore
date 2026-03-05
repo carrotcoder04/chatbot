@@ -42,6 +42,7 @@ MANIFEST
 
 # Environment sets
 .venv
+.env
 env/
 venv/
 ENV/

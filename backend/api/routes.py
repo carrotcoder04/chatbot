@@ -98,19 +98,20 @@ async def chat_stream(req: ChatRequest, request: Request, db: Session = Depends(
     # 2. Lưu câu hỏi của User
     save_message(db, conv_id, "user", req.query)
 
-    # 3. Lấy config từ request nếu có
+    # 3. Lấy config từ request nếu có (ĐÃ ẨN/ BỎ THEO YÊU CẦU)
     llm_kwargs = {}
-    if req.llm_config:
-        llm_kwargs = {
-            "api_key": req.llm_config.api_key,
-            "provider": req.llm_config.provider,
-            "model_name": req.llm_config.model
-        }
+    # if req.llm_config:
+    #     llm_kwargs = {
+    #         "api_key": req.llm_config.api_key,
+    #         "provider": req.llm_config.provider,
+    #         "model_name": req.llm_config.model
+    #     }
 
     async def generate():
         full_answer = []
         async for data_str in engine.stream_chat(req.query, history, **llm_kwargs):
             try:
+                print(data_str)
                 data = json.loads(data_str)
                 # Thêm conversation_id vào mọi chunk
                 data["conversation_id"] = conv_id

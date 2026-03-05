@@ -83,7 +83,7 @@ class ChatEngine:
                 generation_config={
                     "temperature": 0.2,
                     "top_p": 0.8,
-                    "max_output_tokens": 1024,
+                    "max_output_tokens": 4096*3,
                 },
             )
         elif self.provider == "ollama":
