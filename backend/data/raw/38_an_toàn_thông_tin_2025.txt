@@ -1,9 +1,0 @@
-Ngành: An toàn thông tin
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7480202
-- Mã ngành: 7480202
-- Nhóm ngành: An toàn thông tin
-- Loại chương trình: NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ
-- Chỉ tiêu tuyển sinh: 120 sinh viên
-- Tổ hợp xét tuyển: Không rõ
-- Mô tả: Ngành "An toàn thông tin" thuộc loại hình "NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ". Mã xét tuyển: 7480202. Mã ngành: 7480202 - Nhóm ngành: An toàn thông tin. Chỉ tiêu dự kiến: 120 sinh viên. Tổ hợp xét tuyển: Không rõ.

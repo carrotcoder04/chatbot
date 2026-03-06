@@ -1,9 +1,0 @@
-Ngành: Báo chí
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7320101
-- Mã ngành: 7320101
-- Nhóm ngành: Báo chí
-- Loại chương trình: NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ
-- Chỉ tiêu tuyển sinh: 90 sinh viên
-- Tổ hợp xét tuyển: A00, A01, X06, X26, D01
-- Mô tả: Ngành "Báo chí" thuộc loại hình "NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ". Mã xét tuyển: 7320101. Mã ngành: 7320101 - Nhóm ngành: Báo chí. Chỉ tiêu dự kiến: 90 sinh viên. Tổ hợp xét tuyển: Toán, Lý, Hóa (mã A00); Toán, Lý, Anh (mã A01); Toán, Lý, Tin (mã X06); Toán, Tin, Anh (mã X26); Toán, Văn, Anh (mã D01).

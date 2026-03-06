@@ -1,345 +1,262 @@
-Ngành: Báo chí
-Mã ngành: 7320101
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.29
-- Điểm xét tuyển tài năng: 73.17
-- Điểm xét học bạ kết hợp: 26.73
-- Điểm đánh giá năng lực: 18.5
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Truyền thông đa phương tiện
-Mã ngành: 7320104
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.94
-- Điểm xét tuyển tài năng: 70.03
-- Điểm xét học bạ kết hợp: 28
-- Điểm đánh giá năng lực: 20.7
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Công nghệ đa phương tiện
-Mã ngành: 7329001
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.75
-- Điểm xét tuyển tài năng: 72.48
-- Điểm xét học bạ kết hợp: 27
-- Điểm đánh giá năng lực: 20.21
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 23.95
-- Điểm xét tuyển tài năng: 88.13
-- Điểm xét học bạ kết hợp: 23.46
-- Điểm đánh giá năng lực: 15.05
-------------------------
-Ngành: Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)
-Mã ngành: 7329001_GAM
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 24.97
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Quản trị kinh doanh
-Mã ngành: 7340101
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.17
-- Điểm xét tuyển tài năng: 72.52
-- Điểm xét học bạ kết hợp: 25.37
-- Điểm đánh giá năng lực: 18.3
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 18.4
-- Điểm xét tuyển tài năng: 76.41
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: 19.9
-------------------------
-Ngành: Marketing
-Mã ngành: 7340115
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.85
-- Điểm xét tuyển tài năng: 72.03
-- Điểm xét học bạ kết hợp: 26.97
-- Điểm đánh giá năng lực: 19.85
+--- ĐIỂM CHUẨN NGÀNH: Báo chí | Mã: 7320101 | Năm 2025
+Tên ngành: Báo chí | Mã ngành: 7320101 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.29
+  - Điểm xét tuyển tài năng (học bạ năng lực): 73.17
+  - Điểm xét học bạ kết hợp: 26.73
+  - Điểm đánh giá năng lực (ĐGNL): 18.5
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
 
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 24.24
-- Điểm xét tuyển tài năng: 76.72
-- Điểm xét học bạ kết hợp: 23.87
-- Điểm đánh giá năng lực: 15.93
-------------------------
-Ngành: Marketing (chất lượng cao)
-Mã ngành: 7340115 _CLC
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 24.25
-- Điểm xét tuyển tài năng: 75.63
-- Điểm xét học bạ kết hợp: 25.51
-- Điểm đánh giá năng lực: 17.45
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 18
-- Điểm xét tuyển tài năng: 78.48
-- Điểm xét học bạ kết hợp: 21.53
-- Điểm đánh giá năng lực: 15.28
-------------------------
-Ngành: Quan hệ công chúng (ngành Marketing)
-Mã ngành: 7340115_QHC
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.15
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Thương mại điện tử
-Mã ngành: 7340122
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 26.09
-- Điểm xét tuyển tài năng: 75.55
-- Điểm xét học bạ kết hợp: 27.26
-- Điểm đánh giá năng lực: 20.7
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Công nghệ tài chính (Fintech)
-Mã ngành: 7340205
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.61
-- Điểm xét tuyển tài năng: 70.63
-- Điểm xét học bạ kết hợp: 26.7
-- Điểm đánh giá năng lực: 19.45
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Kế toán
-Mã ngành: 7340301
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.29
-- Điểm xét tuyển tài năng: 73.07
-- Điểm xét học bạ kết hợp: 25.77
-- Điểm đánh giá năng lực: 18.5
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 20.95
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: 22.8
-- Điểm đánh giá năng lực: 15.88
-------------------------
-Ngành: Kế toán (chuẩn quốc tế ACCA)
-Mã ngành: 7340301 _CLC
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 22.5
-- Điểm xét tuyển tài năng: 76.42
-- Điểm xét học bạ kết hợp: 23.36
-- Điểm đánh giá năng lực: 15
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Khoa học máy tính (định hướng Khoa học dữ liệu)
-Mã ngành: 7480101
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 26.31
-- Điểm xét tuyển tài năng: 84.34
-- Điểm xét học bạ kết hợp: 28
-- Điểm đánh giá năng lực: 23.5
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)
-Mã ngành: 7480102
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.59
-- Điểm xét tuyển tài năng: 73.57
-- Điểm xét học bạ kết hợp: 23.74
-- Điểm đánh giá năng lực: 19.45
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Công nghệ thông tin
-Mã ngành: 7480201
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 26.4
-- Điểm xét tuyển tài năng: 82.85
-- Điểm xét học bạ kết hợp: 27.01
-- Điểm đánh giá năng lực: 22.55
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 25.17
-- Điểm xét tuyển tài năng: 68.83
-- Điểm xét học bạ kết hợp: 22.2
-- Điểm đánh giá năng lực: 18.01
-------------------------
-Ngành: Công nghệ thông tin (chất lượng cao)
-Mã ngành: 7480201 _CLC
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.43
-- Điểm xét tuyển tài năng: 72.60
-- Điểm xét học bạ kết hợp: 25.64
-- Điểm đánh giá năng lực: 19.4
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 23.25
-- Điểm xét tuyển tài năng: 75.69
-- Điểm xét học bạ kết hợp: 23.36
-- Điểm đánh giá năng lực: 15.03
-------------------------
-Ngành: Cử nhân Công nghệ thông tin (định hướng ứng dụng)
-Mã ngành: 7480201_UDU
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 24.87
-- Điểm xét tuyển tài năng: 73.11
-- Điểm xét học bạ kết hợp: 25.5
-- Điểm đánh giá năng lực: 17.1
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: Công nghệ thông tin Việt – Nhật
-Mã ngành: 7480201_VNH
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 24.25
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-------------------------
-Ngành: An toàn thông tin
-Mã ngành: 7480202
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.85
-- Điểm xét tuyển tài năng: 81.43
-- Điểm xét học bạ kết hợp: 26.8
-- Điểm đánh giá năng lực: 21.6
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 24.68
-- Điểm xét tuyển tài năng: 71.95
-- Điểm xét học bạ kết hợp: 21.89
-- Điểm đánh giá năng lực: 15.8
-------------------------
-Ngành: Công nghệ kỹ thuật Điện, điện tử
-Mã ngành: 7510301
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.46
-- Điểm xét tuyển tài năng: 67.80
-- Điểm xét học bạ kết hợp: 25.07
-- Điểm đánh giá năng lực: 19.84
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 20.85
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: 24.36
-- Điểm đánh giá năng lực: 15.08
-------------------------
-Ngành: Kỹ thuật điện tử viễn thông
-Mã ngành: 7520207
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 25.75
-- Điểm xét tuyển tài năng: 75.43
-- Điểm xét học bạ kết hợp: 26.42
-- Điểm đánh giá năng lực: 20.65
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 23.23
-- Điểm xét tuyển tài năng: 85.69
-- Điểm xét học bạ kết hợp: 23.77
-- Điểm đánh giá năng lực: 16.23
-------------------------
-Ngành: Kỹ thuật Điều khiển và Tự động hóa
-Mã ngành: 7520216
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: 26.08
-- Điểm xét tuyển tài năng: 82.35
-- Điểm xét học bạ kết hợp: 27.71
-- Điểm đánh giá năng lực: 22.05
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 19.65
-- Điểm xét tuyển tài năng: 78.71
-- Điểm xét học bạ kết hợp: 23.7
-- Điểm đánh giá năng lực: 16.18
-------------------------
-Ngành: Công nghệ Internet vạn vật (IoT)
-Mã ngành: Không có
-Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-Năm tuyển sinh: 2025
-Cơ sở Hà Nội
-- Điểm xét tuyển THPT: Chưa có dữ liệu
-- Điểm xét tuyển tài năng: Chưa có dữ liệu
-- Điểm xét học bạ kết hợp: Chưa có dữ liệu
-- Điểm đánh giá năng lực: Chưa có dữ liệu
-Cơ sở TP.HCM
-- Điểm xét tuyển THPT: 18
-- Điểm xét tuyển tài năng: 83.97
-- Điểm xét học bạ kết hợp: 24.83
-- Điểm đánh giá năng lực: 18.33
+--- ĐIỂM CHUẨN NGÀNH: Truyền thông đa phương tiện | Mã: 7320104 | Năm 2025
+Tên ngành: Truyền thông đa phương tiện | Mã ngành: 7320104 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.94
+  - Điểm xét tuyển tài năng: 70.03
+  - Điểm xét học bạ kết hợp: 28
+  - Điểm đánh giá năng lực (ĐGNL): 20.7
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ đa phương tiện | Mã: 7329001 | Năm 2025
+Tên ngành: Công nghệ đa phương tiện | Mã ngành: 7329001 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.75
+  - Điểm xét tuyển tài năng: 72.48
+  - Điểm xét học bạ kết hợp: 27
+  - Điểm đánh giá năng lực (ĐGNL): 20.21
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 23.95
+  - Điểm xét tuyển tài năng: 88.13
+  - Điểm xét học bạ kết hợp: 23.46
+  - Điểm đánh giá năng lực (ĐGNL): 15.05
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Thiết kế và phát triển Game | Mã: 7329001_GAM | Năm 2025
+Tên ngành: Thiết kế và phát triển Game | Mã ngành: 7329001_GAM | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 24.97
+  - Điểm xét tuyển tài năng: Chưa có dữ liệu
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Quản trị kinh doanh | Mã: 7340101 | Năm 2025
+Tên ngành: Quản trị kinh doanh | Mã ngành: 7340101 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.17
+  - Điểm xét tuyển tài năng: 72.52
+  - Điểm xét học bạ kết hợp: 25.37
+  - Điểm đánh giá năng lực (ĐGNL): 18.3
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 18.4
+  - Điểm xét tuyển tài năng: 76.41
+  - Điểm đánh giá năng lực (ĐGNL): 19.9
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Marketing | Mã: 7340115 | Năm 2025
+Tên ngành: Marketing | Mã ngành: 7340115 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.85
+  - Điểm xét tuyển tài năng: 72.03
+  - Điểm xét học bạ kết hợp: 26.97
+  - Điểm đánh giá năng lực (ĐGNL): 19.85
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 24.24
+  - Điểm xét tuyển tài năng: 76.72
+  - Điểm xét học bạ kết hợp: 23.87
+  - Điểm đánh giá năng lực (ĐGNL): 15.93
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Marketing chất lượng cao | Mã: 7340115_CLC | Năm 2025
+Tên ngành: Marketing chất lượng cao (CLC) | Mã ngành: 7340115_CLC | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 24.25
+  - Điểm xét tuyển tài năng: 75.63
+  - Điểm xét học bạ kết hợp: 25.51
+  - Điểm đánh giá năng lực (ĐGNL): 17.45
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 18
+  - Điểm xét tuyển tài năng: 78.48
+  - Điểm xét học bạ kết hợp: 21.53
+  - Điểm đánh giá năng lực (ĐGNL): 15.28
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Quan hệ công chúng | Mã: 7340115_QHC | Năm 2025
+Tên ngành: Quan hệ công chúng (PR) | Mã ngành: 7340115_QHC | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.15
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Thương mại điện tử | Mã: 7340122 | Năm 2025
+Tên ngành: Thương mại điện tử | Mã ngành: 7340122 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 26.09
+  - Điểm xét tuyển tài năng: 75.55
+  - Điểm xét học bạ kết hợp: 27.26
+  - Điểm đánh giá năng lực (ĐGNL): 20.7
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ tài chính Fintech | Mã: 7340205 | Năm 2025
+Tên ngành: Công nghệ tài chính (Fintech) | Mã ngành: 7340205 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.61
+  - Điểm xét tuyển tài năng: 70.63
+  - Điểm xét học bạ kết hợp: 26.7
+  - Điểm đánh giá năng lực (ĐGNL): 19.45
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Kế toán | Mã: 7340301 | Năm 2025
+Tên ngành: Kế toán | Mã ngành: 7340301 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.29
+  - Điểm xét tuyển tài năng: 73.07
+  - Điểm xét học bạ kết hợp: 25.77
+  - Điểm đánh giá năng lực (ĐGNL): 18.5
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 20.95
+  - Điểm xét học bạ kết hợp: 22.8
+  - Điểm đánh giá năng lực (ĐGNL): 15.88
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Kế toán chuẩn ACCA | Mã: 7340301_CLC | Năm 2025
+Tên ngành: Kế toán chuẩn quốc tế ACCA (CLC) | Mã ngành: 7340301_CLC | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 22.5
+  - Điểm xét tuyển tài năng: 76.42
+  - Điểm xét học bạ kết hợp: 23.36
+  - Điểm đánh giá năng lực (ĐGNL): 15
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Khoa học máy tính Khoa học dữ liệu | Mã: 7480101 | Năm 2025
+Tên ngành: Khoa học máy tính (định hướng Khoa học dữ liệu - Data Science) | Mã ngành: 7480101 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 26.31
+  - Điểm xét tuyển tài năng: 84.34
+  - Điểm xét học bạ kết hợp: 28
+  - Điểm đánh giá năng lực (ĐGNL): 23.5
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Mạng máy tính Kỹ thuật dữ liệu | Mã: 7480102 | Năm 2025
+Tên ngành: Mạng máy tính và Truyền thông dữ liệu (Kỹ thuật dữ liệu) | Mã ngành: 7480102 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.59
+  - Điểm xét tuyển tài năng: 73.57
+  - Điểm xét học bạ kết hợp: 23.74
+  - Điểm đánh giá năng lực (ĐGNL): 19.45
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ thông tin | Mã: 7480201 | Năm 2025
+Tên ngành: Công nghệ thông tin (CNTT) | Mã ngành: 7480201 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 26.4
+  - Điểm xét tuyển tài năng: 82.85
+  - Điểm xét học bạ kết hợp: 27.01
+  - Điểm đánh giá năng lực (ĐGNL): 22.55
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 25.17
+  - Điểm xét tuyển tài năng: 68.83
+  - Điểm xét học bạ kết hợp: 22.2
+  - Điểm đánh giá năng lực (ĐGNL): 18.01
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ thông tin chất lượng cao | Mã: 7480201_CLC | Năm 2025
+Tên ngành: Công nghệ thông tin chất lượng cao (CNTT CLC) | Mã ngành: 7480201_CLC | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.43
+  - Điểm xét tuyển tài năng: 72.60
+  - Điểm xét học bạ kết hợp: 25.64
+  - Điểm đánh giá năng lực (ĐGNL): 19.4
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 23.25
+  - Điểm xét tuyển tài năng: 75.69
+  - Điểm xét học bạ kết hợp: 23.36
+  - Điểm đánh giá năng lực (ĐGNL): 15.03
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Cử nhân CNTT định hướng ứng dụng | Mã: 7480201_UDU | Năm 2025
+Tên ngành: Cử nhân Công nghệ thông tin định hướng ứng dụng | Mã ngành: 7480201_UDU | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 24.87
+  - Điểm xét tuyển tài năng: 73.11
+  - Điểm xét học bạ kết hợp: 25.5
+  - Điểm đánh giá năng lực (ĐGNL): 17.1
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ thông tin Việt Nhật | Mã: 7480201_VNH | Năm 2025
+Tên ngành: Công nghệ thông tin Việt - Nhật | Mã ngành: 7480201_VNH | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 24.25
+Cơ sở TP.HCM (BVS): Chưa có dữ liệu điểm chuẩn năm 2025
+---
+
+--- ĐIỂM CHUẨN NGÀNH: An toàn thông tin | Mã: 7480202 | Năm 2025
+Tên ngành: An toàn thông tin (ATTT) | Mã ngành: 7480202 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.85
+  - Điểm xét tuyển tài năng: 81.43
+  - Điểm xét học bạ kết hợp: 26.8
+  - Điểm đánh giá năng lực (ĐGNL): 21.6
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 24.68
+  - Điểm xét tuyển tài năng: 71.95
+  - Điểm xét học bạ kết hợp: 21.89
+  - Điểm đánh giá năng lực (ĐGNL): 15.8
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ kỹ thuật Điện Điện tử | Mã: 7510301 | Năm 2025
+Tên ngành: Công nghệ kỹ thuật Điện, Điện tử | Mã ngành: 7510301 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.46
+  - Điểm xét tuyển tài năng: 67.80
+  - Điểm xét học bạ kết hợp: 25.07
+  - Điểm đánh giá năng lực (ĐGNL): 19.84
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 20.85
+  - Điểm xét học bạ kết hợp: 24.36
+  - Điểm đánh giá năng lực (ĐGNL): 15.08
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Kỹ thuật Điện tử Viễn thông | Mã: 7520207 | Năm 2025
+Tên ngành: Kỹ thuật Điện tử Viễn thông | Mã ngành: 7520207 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 25.75
+  - Điểm xét tuyển tài năng: 75.43
+  - Điểm xét học bạ kết hợp: 26.42
+  - Điểm đánh giá năng lực (ĐGNL): 20.65
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 23.23
+  - Điểm xét tuyển tài năng: 85.69
+  - Điểm xét học bạ kết hợp: 23.77
+  - Điểm đánh giá năng lực (ĐGNL): 16.23
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Kỹ thuật Điều khiển và Tự động hóa | Mã: 7520216 | Năm 2025
+Tên ngành: Kỹ thuật Điều khiển và Tự động hóa | Mã ngành: 7520216 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH):
+  - Điểm xét tuyển THPT: 26.08
+  - Điểm xét tuyển tài năng: 82.35
+  - Điểm xét học bạ kết hợp: 27.71
+  - Điểm đánh giá năng lực (ĐGNL): 22.05
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 19.65
+  - Điểm xét tuyển tài năng: 78.71
+  - Điểm xét học bạ kết hợp: 23.7
+  - Điểm đánh giá năng lực (ĐGNL): 16.18
+---
+
+--- ĐIỂM CHUẨN NGÀNH: Công nghệ Internet vạn vật IoT | Mã: 7520208 | Năm 2025
+Tên ngành: Công nghệ Internet vạn vật (IoT) | Mã ngành: 7520208 | Trường: PTIT | Năm tuyển sinh: 2025
+Cơ sở Hà Nội (BVH): Chưa có dữ liệu điểm chuẩn năm 2025
+Cơ sở TP.HCM (BVS):
+  - Điểm xét tuyển THPT: 18
+  - Điểm xét tuyển tài năng: 83.97
+  - Điểm xét học bạ kết hợp: 24.83
+  - Điểm đánh giá năng lực (ĐGNL): 18.33
+---

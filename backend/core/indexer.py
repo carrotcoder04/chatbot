@@ -20,7 +20,7 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "raw"
 
 def build_index(
     data_dir: str = str(DATA_DIR),
-    chunking_strategy: str = "fixed",
+    chunking_strategy: str = "separator",
     chunk_size: int = 256,
     chunk_overlap: int = 50,
 ):
@@ -51,6 +51,8 @@ def build_index(
         chunker = get_chunker("semantic", embedder=_embedder)
     elif chunking_strategy == "sentence_window":
         chunker = get_chunker("sentence_window", window=2)
+    elif chunking_strategy == "separator":
+        chunker = get_chunker("separator", separator="---", max_words=400)
     else:
         chunker = get_chunker("fixed", size=chunk_size, overlap=chunk_overlap)
 
@@ -96,7 +98,7 @@ async def build_index_incremental(file_path: str, engine=None):
     parser = DocumentParser()
     raw_texts = parser.parse(file_path)
 
-    chunker = get_chunker("fixed", size=256, overlap=50)
+    chunker = get_chunker("separator", separator="---", max_words=400)
     new_chunks = chunker.chunk_many(raw_texts)
 
     # Load existing indexer và thêm vào
@@ -126,8 +128,8 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="PTIT Chatbot Indexer")
-    parser.add_argument("--strategy", default="fixed",
-                        choices=["fixed", "sentence_window", "semantic"],
+    parser.add_argument("--strategy", default="separator",
+                        choices=["fixed", "sentence_window", "semantic", "separator"],
                         help="Chunking strategy")
     parser.add_argument("--size", type=int, default=256, help="Chunk size")
     parser.add_argument("--overlap", type=int, default=50, help="Chunk overlap")

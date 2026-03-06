@@ -1,0 +1,29 @@
+TỔNG QUAN CÁC NGÀNH ĐÀO TẠO PTIT
+PTIT đào tạo 28 ngành gồm:
+1. Công nghệ thông tin (7480201) - Kỹ sư - 4.5 năm
+2. Công nghệ thông tin CLC (7480201_CLC) - Kỹ sư - 4.5 năm
+3. Công nghệ thông tin Việt-Nhật (7480201_VNH) - Kỹ sư - 4.5 năm
+4. An toàn thông tin (7480202) - Kỹ sư - 4.5 năm
+5. An toàn thông tin CLC (7480202_CLC) - Kỹ sư - 4.5 năm
+6. Khoa học máy tính - Khoa học dữ liệu (7480101) - Kỹ sư - 4.5 năm
+7. Mạng máy tính - Kỹ thuật dữ liệu (7480102) - Kỹ sư - 4.5 năm
+8. Trí tuệ nhân tạo (7480107) - Kỹ sư - 4.5 năm
+9. Công nghệ kỹ thuật Điện-Điện tử (7510301) - Kỹ sư - 4.5 năm
+10. Công nghệ Vi mạch bán dẫn (7510301_MBD) - Kỹ sư - 4.5 năm
+11. Kỹ thuật Điện tử - Viễn thông (7520207) - Kỹ sư - 4.5 năm
+12. Trí tuệ nhân tạo vạn vật AIoT (7520207_AIoT) - Kỹ sư - 4.5 năm
+13. Kỹ thuật Điều khiển và Tự động hóa (7520216) - Kỹ sư - 4.5 năm
+14. Công nghệ đa phương tiện (7329001) - Kỹ sư - 4.5 năm
+15. Thiết kế và phát triển Game (7329001_GAM) - Kỹ sư - 4.5 năm
+16. Truyền thông đa phương tiện (7320104) - Cử nhân - 4 năm
+17. Truyền thông đa phương tiện CLC (7320104_CLC) - Cử nhân - 4 năm
+18. Báo chí (7320101) - Cử nhân - 4 năm
+19. Quản trị kinh doanh (7340101) - Cử nhân - 4 năm
+20. Logistics và quản trị chuỗi cung ứng (7340101_LOG) - Cử nhân - 4 năm
+21. Marketing (7340115) - Cử nhân - 4 năm
+22. Marketing CLC (7340115_CLC) - Cử nhân - 4 năm
+23. Quan hệ công chúng (7340115_QHC) - Cử nhân - 4 năm
+24. Thương mại điện tử (7340122) - Cử nhân - 4 năm
+25. Công nghệ tài chính Fintech (7340205) - Cử nhân - 4 năm
+26. Kế toán (7340301) - Cử nhân - 4 năm
+27. Kế toán CLC chuẩn ACCA (7340301_CLC) - Cử nhân - 4 năm

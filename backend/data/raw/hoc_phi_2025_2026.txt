@@ -1,0 +1,260 @@
+--- TỔNG QUAN HỌC PHÍ PTIT NĂM HỌC 2025-2026
+Căn cứ: Quyết định số 1120/QĐ-HV ngày 30/6/2025 của Giám đốc Học viện PTIT
+Hiệu lực: Từ năm học 2025-2026
+Đơn vị tính: đồng/tín chỉ (trừ Tiến sĩ tính đồng/năm, Lưu học sinh tính đồng/tháng)
+Ghi chú: Mức thu áp dụng cả khi giảng dạy trực tuyến (online). Sinh viên chưa hoàn thành chương trình đúng hạn sẽ áp dụng mức thu học lại.
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2021
+Hệ: Đại học chính quy đại trà
+Khóa: 2021
+Ngành kỹ thuật: Công nghệ thông tin, An toàn thông tin, Công nghệ Kỹ thuật Điện-Điện tử, Kỹ thuật Điện tử viễn thông, Công nghệ Đa phương tiện, Kỹ thuật Điều khiển và Tự động hóa, Công nghệ Internet vạn vật (IoT), Khoa học máy tính
+Học phí: 700.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2022 | Kỹ thuật
+Hệ: Đại học chính quy đại trà
+Khóa: 2022
+Ngành: Công nghệ thông tin, An toàn thông tin, Công nghệ Kỹ thuật Điện-Điện tử, Kỹ thuật Điện tử viễn thông, Công nghệ Đa phương tiện, Kỹ thuật Điều khiển và Tự động hóa, Công nghệ Internet vạn vật (IoT), Khoa học máy tính
+Học phí: 825.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2022 | Kinh tế
+Hệ: Đại học chính quy đại trà
+Khóa: 2022
+Ngành: Quản trị kinh doanh, Kế toán, Marketing, Thương mại điện tử, Công nghệ tài chính (Fintech), Truyền thông đa phương tiện, Báo chí
+Học phí: 760.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2023 | Kỹ thuật
+Hệ: Đại học chính quy đại trà
+Khóa: 2023
+Ngành: Công nghệ thông tin, An toàn thông tin, Công nghệ Kỹ thuật Điện-Điện tử, Kỹ thuật Điện tử viễn thông, Công nghệ Đa phương tiện, Kỹ thuật Điều khiển và Tự động hóa, Công nghệ Internet vạn vật (IoT), Khoa học máy tính, Chương trình Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)
+Học phí: 920.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2023 | Kinh tế
+Hệ: Đại học chính quy đại trà
+Khóa: 2023
+Ngành: Quản trị kinh doanh, Kế toán, Marketing, Thương mại điện tử, Công nghệ tài chính (Fintech), Truyền thông đa phương tiện, Báo chí
+Học phí: 850.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2024 | Kỹ thuật
+Hệ: Đại học chính quy đại trà
+Khóa: 2024
+Ngành: Công nghệ thông tin, An toàn thông tin, Công nghệ Kỹ thuật Điện-Điện tử, Kỹ thuật Điện tử viễn thông, Công nghệ Đa phương tiện, Kỹ thuật Điều khiển và Tự động hóa, Công nghệ Internet vạn vật (IoT), Khoa học máy tính, Chương trình Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)
+Học phí: 1.010.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2024 | Kinh tế
+Hệ: Đại học chính quy đại trà
+Khóa: 2024
+Ngành: Quản trị kinh doanh, Kế toán, Marketing, Thương mại điện tử, Công nghệ tài chính (Fintech), Chương trình Quan hệ công chúng (ngành Marketing), Truyền thông đa phương tiện, Báo chí
+Học phí: 920.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2025 | Giáo dục quốc phòng
+Hệ: Đại học chính quy đại trà
+Khóa: 2025
+Môn: Giáo dục quốc phòng
+Học phí: 880.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2025 | Kỹ thuật (nhóm 1)
+Hệ: Đại học chính quy đại trà
+Khóa: 2025
+Ngành: Công nghệ thông tin, An toàn thông tin, Công nghệ Kỹ thuật Điện-Điện tử, Kỹ thuật Điện tử viễn thông, Công nghệ Đa phương tiện, Công nghệ Internet vạn vật (IoT), Chương trình Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu)
+Học phí: 1.020.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2025 | Kỹ thuật (nhóm 2)
+Hệ: Đại học chính quy đại trà
+Khóa: 2025
+Ngành: Kỹ thuật điều khiển và tự động hóa, Khoa học máy tính
+Học phí: 880.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2025 | Kinh tế (nhóm 1)
+Hệ: Đại học chính quy đại trà
+Khóa: 2025
+Ngành: Logistics và quản trị chuỗi ứng (ngành Quản trị kinh doanh), Kế toán, Marketing, Thương mại điện tử, Công nghệ tài chính (Fintech), Chương trình Quan hệ công chúng (ngành Marketing), Truyền thông đa phương tiện, Báo chí
+Học phí: 945.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY ĐẠI TRÀ (chương trình chuẩn) | Khóa 2025 | Quản trị kinh doanh
+Hệ: Đại học chính quy đại trà
+Khóa: 2025
+Ngành: Quản trị kinh doanh
+Học phí: 820.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐÀO TẠO SONG BẰNG (ngành học thứ 2)
+Hệ: Đào tạo song bằng
+Mức thu: Bằng 75% học phí của hệ đại học chính quy tương ứng
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2021-2022 | CNTT
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2021, 2022
+Ngành: Công nghệ thông tin
+Học phí: 1.350.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2023 | CNTT
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2023
+Ngành: Công nghệ thông tin
+Học phí: 1.350.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2023 | Marketing
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2023
+Ngành: Marketing
+Học phí: 1.250.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2024 | CNTT
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2024
+Ngành: Công nghệ thông tin
+Học phí: 1.420.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2024 | Marketing & Kế toán
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2024
+Ngành: Marketing, Kế toán
+Học phí: 1.300.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2025 | Giáo dục quốc phòng
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2025
+Môn: Giáo dục quốc phòng
+Học phí: 880.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2025 | CNTT
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2025
+Ngành: Công nghệ thông tin
+Học phí: 1.470.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO | Khóa 2025 | Marketing & Kế toán
+Hệ: Đại học chính quy chất lượng cao (CLC)
+Khóa: 2025
+Ngành: Marketing, Kế toán
+Học phí: 1.350.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHƯƠNG TRÌNH TIÊN TIẾN & ĐẶC THÙ | Khóa 2023
+Hệ: Đại học chính quy chương trình tiên tiến, đặc thù
+Khóa: 2023
+Chương trình: Cử nhân ngành Công nghệ thông tin (định hướng ứng dụng)
+Học phí: 1.120.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHƯƠNG TRÌNH TIÊN TIẾN & ĐẶC THÙ | Khóa 2024
+Hệ: Đại học chính quy chương trình tiên tiến, đặc thù
+Khóa: 2024
+Chương trình: Cử nhân CNTT (định hướng ứng dụng), Công nghệ thông tin Việt-Nhật (ngành CNTT), Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)
+Học phí: 1.120.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC CHÍNH QUY CHƯƠNG TRÌNH TIÊN TIẾN & ĐẶC THÙ | Khóa 2025
+Hệ: Đại học chính quy chương trình tiên tiến, đặc thù
+Khóa: 2025
+Chương trình: Cử nhân CNTT (định hướng ứng dụng), Công nghệ thông tin Việt-Nhật, Thiết kế và phát triển Game (ngành CNTT đa phương tiện), Trí tuệ nhân tạo
+Môn Giáo dục quốc phòng: 880.000 đồng/tín chỉ
+Học phí: 1.140.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC TỪ XA | Khóa 2024 trở về trước
+Hệ: Đại học từ xa
+Khóa: 2024 trở về trước
+Khối ngành kỹ thuật: 450.000 đồng/tín chỉ
+Khối ngành kinh tế: 420.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC TỪ XA | Khóa 2025
+Hệ: Đại học từ xa
+Khóa: 2025
+Khối ngành kỹ thuật: 500.000 đồng/tín chỉ
+Khối ngành kinh tế: 480.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC VỪA LÀM VỪA HỌC | Khóa 2021
+Hệ: Đại học vừa làm vừa học
+Khóa: 2021
+Ngành Kỹ thuật: 700.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC VỪA LÀM VỪA HỌC | Khóa 2022
+Hệ: Đại học vừa làm vừa học
+Khóa: 2022
+Ngành Kỹ thuật: 825.000 đồng/tín chỉ
+Ngành Kinh tế: 760.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC VỪA LÀM VỪA HỌC | Khóa 2023
+Hệ: Đại học vừa làm vừa học
+Khóa: 2023
+Ngành Kỹ thuật: 920.000 đồng/tín chỉ
+Ngành Kinh tế: 850.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC VỪA LÀM VỪA HỌC | Khóa 2024
+Hệ: Đại học vừa làm vừa học
+Khóa: 2024
+Ngành Kỹ thuật: 1.010.000 đồng/tín chỉ
+Ngành Kinh tế: 920.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: ĐẠI HỌC VỪA LÀM VỪA HỌC | Khóa 2025
+Hệ: Đại học vừa làm vừa học
+Khóa: 2025
+Môn Giáo dục quốc phòng: 880.000 đồng/tín chỉ
+Ngành Kỹ thuật: 1.020.000 đồng/tín chỉ
+Ngành Kinh tế: 945.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ | Khóa 2024 trở về trước
+Hệ: Liên kết quốc tế (La Trobe - Úc, Canberra - Úc, Huddersfield - Vương quốc Anh)
+Môn Giáo dục quốc phòng: 880.000 đồng/tín chỉ
+Khóa 2024 trở về trước: 1.400.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ | Khóa 2025
+Hệ: Liên kết quốc tế (La Trobe - Úc, Canberra - Úc, Huddersfield - Vương quốc Anh)
+Khóa: 2025
+Học phí: 1.500.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: LƯU HỌC SINH LÀO & CAMPUCHIA (Tiến sĩ, Thạc sĩ, Đại học chính quy)
+Hệ: Tiến sĩ, Thạc sĩ, Đại học chính quy - Sinh viên/học viên Lào, Campuchia (điện tử)
+Ghi chú: Mức thu chưa bao gồm chi phí sinh hoạt, chi phí ở, chi phí đi lại và chi khác
+Học phí: 3.350.000 đồng/tháng
+---
+
+--- HỌC PHÍ: THẠC SĨ | Khóa 2023 trở về trước
+Hệ: Thạc sĩ
+Khóa: 2023 trở về trước
+Ngành Kỹ thuật: 800.000 đồng/tín chỉ
+Ngành Kinh tế: 770.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: THẠC SĨ | Khóa 2024-2025
+Hệ: Thạc sĩ
+Khóa: 2024, 2025
+Ngành Kỹ thuật: 1.000.000 đồng/tín chỉ
+Ngành Kinh tế: 900.000 đồng/tín chỉ
+---
+
+--- HỌC PHÍ: TIẾN SĨ
+Hệ: Tiến sĩ
+Ngành Kỹ thuật: 42.000.000 đồng/năm
+Ngành Kinh tế: 40.000.000 đồng/năm
+---

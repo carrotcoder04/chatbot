@@ -1,9 +1,0 @@
-Ngành: Khoa học máy tính (định hướng Khoa học dữ liệu)
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7480101
-- Mã ngành: 7480101
-- Nhóm ngành: Khoa học máy tính
-- Loại chương trình: NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ
-- Chỉ tiêu tuyển sinh: 150 sinh viên
-- Tổ hợp xét tuyển: Không rõ
-- Mô tả: Ngành "Khoa học máy tính (định hướng Khoa học dữ liệu)" thuộc loại hình "NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ". Mã xét tuyển: 7480101. Mã ngành: 7480101 - Nhóm ngành: Khoa học máy tính. Chỉ tiêu dự kiến: 150 sinh viên. Tổ hợp xét tuyển: Không rõ.

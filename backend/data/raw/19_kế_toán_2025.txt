@@ -1,9 +1,0 @@
-Ngành: Kế toán
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7340301
-- Mã ngành: 7340301
-- Nhóm ngành: Kế toán
-- Loại chương trình: NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ
-- Chỉ tiêu tuyển sinh: 180 sinh viên
-- Tổ hợp xét tuyển: Không rõ
-- Mô tả: Ngành "Kế toán" thuộc loại hình "NGÀNH, CHƯƠNG TRÌNH ĐÀO TẠO ĐẠI TRÀ". Mã xét tuyển: 7340301. Mã ngành: 7340301 - Nhóm ngành: Kế toán. Chỉ tiêu dự kiến: 180 sinh viên. Tổ hợp xét tuyển: Không rõ.

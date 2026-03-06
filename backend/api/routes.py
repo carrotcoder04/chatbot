@@ -14,6 +14,7 @@ from ..core.database import (
     get_history,
     save_message,
 )
+from ..config import settings
 
 router = APIRouter()
 
@@ -62,7 +63,7 @@ async def chat(req: ChatRequest, request: Request, db: Session = Depends(get_db)
     history = get_history(db, conv_id)
 
     # Generate
-    result = engine.chat(req.query, history)
+    result = engine.chat(req.query, history, k=settings.TOP_K)
 
     # Lưu messages
     save_message(db, conv_id, "user", req.query)
@@ -109,7 +110,7 @@ async def chat_stream(req: ChatRequest, request: Request, db: Session = Depends(
 
     async def generate():
         full_answer = []
-        async for data_str in engine.stream_chat(req.query, history, **llm_kwargs):
+        async for data_str in engine.stream_chat(req.query, history, k=settings.TOP_K, **llm_kwargs):
             try:
                 print(data_str)
                 data = json.loads(data_str)

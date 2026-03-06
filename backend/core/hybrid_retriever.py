@@ -39,22 +39,51 @@ class HybridRetriever:
         self.embedder = embedder
         self.rrf_k = rrf_k
 
+    # Bảng viết tắt phổ biến → mở rộng để BM25 và Dense match tốt hơn
+    _ABBREVIATIONS = {
+        "CNTT": "Công nghệ thông tin CNTT",
+        "ATTT": "An toàn thông tin ATTT",
+        "CLB": "câu lạc bộ CLB",
+        "CLC": "chất lượng cao CLC",
+        "ĐGNL": "đánh giá năng lực ĐGNL",
+        "THPT": "thi tốt nghiệp THPT trung học phổ thông",
+        "BVH": "cơ sở Hà Nội BVH",
+        "BVS": "cơ sở TP.HCM BVS HCM",
+        "AI": "trí tuệ nhân tạo AI",
+        "IoT": "Internet vạn vật IoT",
+        "AIoT": "trí tuệ nhân tạo vạn vật AIoT",
+        "PR": "quan hệ công chúng PR",
+    }
+
+    def _expand_query(self, query: str) -> str:
+        """Mở rộng viết tắt trong query để BM25/Dense match tốt hơn."""
+        expanded = query
+        for abbr, full in self._ABBREVIATIONS.items():
+            # Chỉ replace nếu là từ độc lập (tránh replace bên trong từ khác)
+            import re
+            expanded = re.sub(rf'\b{re.escape(abbr)}\b', full, expanded)
+        return expanded
+
     def retrieve(self, query: str, k: int = 5) -> List[Tuple[str, float]]:
         """
         Hybrid retrieval = Dense + Sparse → Weighted RRF fusion.
         Tăng trọng số cho Sparse (BM25) để bắt trúng từ khóa/mã ngành.
         """
-        # 1. Dense (Semantic)
-        q_emb = self.embedder.encode(query)
+        # 0. Expand abbreviations
+        expanded_query = self._expand_query(query)
+
+        # 1. Dense (Semantic) — dùng query gốc cho embedding tự nhiên hơn
+        q_emb = self.embedder.encode(expanded_query)
         dense_results = self.vs.search(q_emb, k=k * 3)
 
-        # 2. Sparse (Keywords)
-        sparse_results = self.bm25.search(query, k=k * 3)
+        # 2. Sparse (Keywords) — dùng expanded query để BM25 match đúng
+        sparse_results = self.bm25.search(expanded_query, k=k * 3)
 
-        # 3. Fuse với trọng số: Sparse (1.5) > Dense (1.0)
+        # 3. Fuse với trọng số: Sparse (1.2) > Dense (1.0)
+        # BM25 vẫn ưu tiên hơn Dense nhưng không quá mạnh để tránh gây nhiễu
         fused = self._reciprocal_rank_fusion(
             [dense_results, sparse_results],
-            weights=[1.0, 1.5]
+            weights=[1.0, 1.2]
         )
 
         return fused[:k]
@@ -64,13 +93,15 @@ class HybridRetriever:
         Trả về kết quả chi tiết của từng retriever để debug và so sánh.
         Hữu ích khi viết experiment cho đồ án.
         """
-        q_emb = self.embedder.encode(query)
+        expanded = self._expand_query(query)
+        q_emb = self.embedder.encode(expanded)
         dense_results = self.vs.search(q_emb, k=k)
-        sparse_results = self.bm25.search(query, k=k)
+        sparse_results = self.bm25.search(expanded, k=k)
         hybrid_results = self.retrieve(query, k=k)
 
         return {
             "query": query,
+            "expanded_query": expanded,
             "dense": dense_results,
             "sparse": sparse_results,
             "hybrid": hybrid_results,

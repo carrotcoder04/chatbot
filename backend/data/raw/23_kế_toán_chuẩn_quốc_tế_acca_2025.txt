@@ -1,9 +1,0 @@
-Ngành: Kế toán (chuẩn quốc tế ACCA)
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7340301_CLC
-- Mã ngành: 7340301
-- Nhóm ngành: Kế toán
-- Loại chương trình: CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ
-- Chỉ tiêu tuyển sinh: 60 sinh viên
-- Tổ hợp xét tuyển: A00, A01, X06, X26, D01
-- Mô tả: Ngành "Kế toán (chuẩn quốc tế ACCA)" thuộc loại hình "CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ". Mã xét tuyển: 7340301_CLC. Mã ngành: 7340301 - Nhóm ngành: Kế toán. Chỉ tiêu dự kiến: 60 sinh viên. Tổ hợp xét tuyển: Toán, Lý, Hóa (mã A00); Toán, Lý, Anh (mã A01); Toán, Lý, Tin (mã X06); Toán, Tin, Anh (mã X26); Toán, Văn, Anh (mã D01).

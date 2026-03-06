@@ -1,9 +1,10 @@
 """
 Module 2: Chunking Engine
-3 strategies để experiment & so sánh trong đồ án:
-  1. FixedSizeChunker   — cắt đều theo token count
+4 strategies để experiment & so sánh trong đồ án:
+  1. FixedSizeChunker      — cắt đều theo số từ
   2. SentenceWindowChunker — mỗi chunk xoay quanh 1 câu
-  3. SemanticChunker    — cắt theo topic shift (nâng cao)
+  3. SemanticChunker       — cắt theo topic shift (nâng cao)
+  4. SeparatorChunker      — cắt theo separator (---) dành cho dữ liệu có cấu trúc
 """
 from abc import ABC, abstractmethod
 from typing import List
@@ -142,20 +143,66 @@ class SemanticChunker(BaseChunker):
         return [p.strip() for p in parts if p.strip()]
 
 
+class SeparatorChunker(BaseChunker):
+    """
+    Cắt theo separator tường minh (mặc định: '---').
+    PHÙ HỢP NHẤT cho dữ liệu có cấu trúc block rõ ràng như PTIT:
+
+        --- CHỈ TIÊU: 7480201 | Hà Nội
+        Tên ngành: Công nghệ thông tin
+        Chỉ tiêu 2025: 600 sinh viên
+        ---
+
+    Mỗi block trở thành 1 chunk → không bao giờ bị cắt ngang.
+    Chunks quá dài sẽ được sub-chunk bằng FixedSizeChunker.
+    """
+
+    def __init__(self, separator: str = "---", max_words: int = 400, min_words: int = 10):
+        self.separator = separator
+        self.max_words = max_words
+        self.min_words = min_words
+        self._fallback = FixedSizeChunker(size=max_words, overlap=50)
+
+    def chunk(self, text: str) -> List[str]:
+        blocks = text.split(self.separator)
+        results = []
+        for block in blocks:
+            block = block.strip()
+            if not block:
+                continue
+            words = block.split()
+            if len(words) < self.min_words:
+                continue
+            if len(words) > self.max_words:
+                # Sub-chunk block quá dài
+                results.extend(self._fallback.chunk(block))
+            else:
+                results.append(block)
+
+        # ✅ Nếu không có separator trong file → fallback toàn bộ bằng FixedSizeChunker
+        # Tránh mất dữ liệu từ file không dùng format ---.
+        if not results:
+            return self._fallback.chunk(text)
+
+        return results
+
+
 # ─── Factory ───────────────────────────────────────────────
 def get_chunker(strategy: str = "fixed", **kwargs) -> BaseChunker:
     """
     Factory function để dễ swap strategy trong experiments.
-    
+
     Usage:
         chunker = get_chunker("fixed", size=256, overlap=50)
         chunker = get_chunker("sentence_window", window=2)
         chunker = get_chunker("semantic", embedder=emb, threshold=0.5)
+        chunker = get_chunker("separator", separator="---", max_words=400)
     """
     strategies = {
         "fixed": FixedSizeChunker,
         "sentence_window": SentenceWindowChunker,
         "semantic": SemanticChunker,
+        "separator": SeparatorChunker,
     }
     if strategy not in strategies:
         raise ValueError(f"Unknown strategy '{strategy}'. Choose: {list(strategies.keys())}")

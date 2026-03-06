@@ -1,18 +1,18 @@
-1. NHÓM CLB TRUYỀN THÔNG
-- CLB Truyền thông & Kỹ năng mềm S4C – PTIT
-- CLB Những nhà quản trị năng động sáng tạo – CDA PTIT
-- CLB Sổ Media
-- CLB MC PTIT – MCP
+--- CÂU LẠC BỘ PTIT - NHÓM TRUYỀN THÔNG
+CLB Truyền thông & Kỹ năng mềm S4C – PTIT
+CLB Những nhà quản trị năng động sáng tạo – CDA PTIT
+CLB Sổ Media
+CLB MC PTIT – MCP
+---
 
+--- CÂU LẠC BỘ PTIT - NHÓM NGHỆ THUẬT
+CLB Văn hóa nghệ thuật PTIT
+CLB PTIT Guitar Club - PGC
+CLB Guitar of PTIT - GPC
+CLB Mỹ thuật sáng tạo - PCA
+---
 
-2. NHÓM CLB NGHỆ THUẬT
-- CLB Văn hóa nghệ thuật PTIT
-- CLB PTIT Guitar Club - PGC
-- CLB Guitar of PTIT - GPC
-- CLB Mỹ thuật sáng tạo - PCA
-
-
-3. NHÓM CLB THỂ THAO
+--- CÂU LẠC BỘ PTIT - NHÓM THỂ THAO
 CLB Taekwondo PTIT
 CLB Võ thuật mở rộng – EMA
 CLB Bóng đá Bưu chính
@@ -20,12 +20,13 @@ CLB Bóng chuyền PTIT
 CLB Cầu lông PTIT
 CLB Thể thao điện tử PTIT (ESC)
 CLB PTIT Street Workout
+---
 
-4. NHÓM CLB HỌC THUẬT - CÔNG NGHỆ
+--- CÂU LẠC BỘ PTIT - NHÓM HỌC THUẬT VÀ CÔNG NGHỆ
 CLB Lập trình PTIT – ProPTIT
 CLB Multimedia PTIT MPC (Sáng tạo ĐPT)
 CLB IT PTIT
-CLB GDSC PTIT
+CLB GDSC PTIT (Google Developer Student Club)
 CLB ISP – CLB An toàn thông tin PTIT
 CLB Marketing PTIT
 CLB Điện tử PTIT – EIE
@@ -35,10 +36,21 @@ CLB Tiếng Anh PTIT – ELFs
 CLB AFC – Tài chính kế toán PTIT
 CLB Hỗ trợ học tập – LSC PTIT
 CLB P-cast: CLB Podcast (TTĐPT)
+---
 
-5. NHÓM CLB XÃ HỘI - CỘNG ĐỒNG
+--- CÂU LẠC BỘ PTIT - NHÓM XÃ HỘI VÀ CỘNG ĐỒNG
 CLB Sinh viên tình nguyện PTIT
 Đội Thanh niên vận động hiến máu PTIT
 CLB Sách và Hành động PTIT
 Đội Cờ đỏ PTIT
 Đội Lễ tân PTIT
+---
+
+--- TỔNG QUAN CÂU LẠC BỘ PTIT
+PTIT có hơn 20 câu lạc bộ (CLB) và đội nhóm hoạt động sôi nổi, chia thành 5 nhóm:
+1. Nhóm Truyền thông: S4C, CDA PTIT, Sổ Media, MCP
+2. Nhóm Nghệ thuật: CLB Văn hóa nghệ thuật, Guitar Club (PGC, GPC), Mỹ thuật sáng tạo
+3. Nhóm Thể thao: Taekwondo, Võ thuật EMA, Bóng đá, Bóng chuyền, Cầu lông, Esports ESC, Street Workout
+4. Nhóm Học thuật/Công nghệ: ProPTIT, IT PTIT, GDSC, ISP (An toàn thông tin), EIE (Điện tử), GCC (Game), ELFs (Tiếng Anh), AFC (Kế toán)
+5. Nhóm Xã hội: Sinh viên tình nguyện, Hiến máu, Sách và Hành động, Cờ đỏ, Lễ tân
+---

@@ -1,0 +1,249 @@
+--- TỔNG QUAN TUYỂN SINH PTIT 2025
+Tổng số ngành đào tạo: 45 chương trình (Hà Nội: 32, TP.HCM: 13)
+Tổng chỉ tiêu năm 2025: khoảng 6740 sinh viên
+Cơ sở Hà Nội (BVH): đào tạo ngành đại trà, chất lượng cao (CLC), đặc thù, liên kết quốc tế
+Cơ sở TP.HCM (BVS): đào tạo ngành đại trà và chất lượng cao (CLC)
+Tổ hợp xét tuyển phổ biến: A00, A01, X06, X26, D01
+Năm 2026 dự kiến tiếp tục giữ ổn định 5 phương thức xét tuyển như năm 2025.
+---
+
+--- CHỈ TIÊU NGÀNH: Kỹ thuật Điện tử Viễn thông | Mã: 7520207
+Tên ngành: Kỹ thuật Điện tử Viễn thông
+Mã ngành: 7520207 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 430 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 140 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 570 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Trí tuệ nhân tạo vạn vật AIoT | Mã: 7520207_AIoT
+Tên ngành: Trí tuệ nhân tạo vạn vật (AIoT)
+Mã ngành: 7520207_AIoT | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 80 sinh viên
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ Internet vạn vật IoT | Mã: 7520208
+Tên ngành: Công nghệ Internet vạn vật (IoT)
+Mã ngành: 7520208 | Chương trình: Đại trà
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 100 sinh viên
+Chỉ đào tạo tại cơ sở TP.HCM (BVS)
+---
+
+--- CHỈ TIÊU NGÀNH: Kỹ thuật Điều khiển và Tự động hóa | Mã: 7520216
+Tên ngành: Kỹ thuật Điều khiển và Tự động hóa
+Mã ngành: 7520216 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 110 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 230 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ Kỹ thuật Điện Điện tử | Mã: 7510301
+Tên ngành: Công nghệ Kỹ thuật Điện, Điện tử
+Mã ngành: 7510301 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 230 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 350 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ Vi mạch Bán dẫn | Mã: 7510301_MBD
+Tên ngành: Công nghệ Vi mạch Bán dẫn
+Mã ngành: 7510301_MBD | Chương trình: Đặc thù
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 150 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+PTIT thuộc liên minh 5 trường đại học đào tạo Vi mạch Bán dẫn
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ thông tin | Mã: 7480201
+Tên ngành: Công nghệ thông tin (CNTT)
+Mã ngành: 7480201 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 600 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 230 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 830 sinh viên
+Đây là ngành có chỉ tiêu tuyển sinh cao nhất PTIT năm 2025.
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ thông tin Chất lượng cao | Mã: 7480201_CLC
+Tên ngành: Công nghệ thông tin - Chất lượng cao (CNTT CLC)
+Mã ngành: 7480201_CLC | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 300 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 420 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ thông tin Việt Nhật | Mã: 7480201_VNH
+Tên ngành: Công nghệ thông tin Việt - Nhật
+Mã ngành: 7480201_VNH | Chương trình: Đặc thù (liên kết Nhật Bản)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 100 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Cử nhân CNTT định hướng ứng dụng | Mã: 7480201_UDU
+Tên ngành: Cử nhân Công nghệ thông tin (định hướng ứng dụng)
+Mã ngành: 7480201_UDU | Chương trình: Đặc thù
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 300 sinh viên
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ thông tin Liên kết La Trobe Australia | Mã: 7480201_LK
+Tên ngành: Công nghệ thông tin (Liên kết Đại học La Trobe, Australia)
+Mã ngành: 7480201_LK | Chương trình: Liên kết quốc tế
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 15 sinh viên | Tổ hợp: A00, A01, X06, X26
+---
+
+--- CHỈ TIÊU NGÀNH: Trí tuệ nhân tạo AI | Mã: 7480107
+Tên ngành: Trí tuệ nhân tạo (AI - Artificial Intelligence)
+Mã ngành: 7480107 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 150 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: An toàn thông tin | Mã: 7480202
+Tên ngành: An toàn thông tin (ATTT)
+Mã ngành: 7480202 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 200 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 320 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: An toàn thông tin Chất lượng cao | Mã: 7480202_CLC
+Tên ngành: An toàn thông tin - Chất lượng cao (ATTT CLC)
+Mã ngành: 7480202_CLC | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 100 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Khoa học máy tính Khoa học dữ liệu | Mã: 7480101
+Tên ngành: Khoa học máy tính (định hướng Khoa học dữ liệu - Data Science)
+Mã ngành: 7480101 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 150 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Mạng máy tính Kỹ thuật dữ liệu | Mã: 7480102
+Tên ngành: Mạng máy tính và Truyền thông dữ liệu (Kỹ thuật dữ liệu - Data Engineering)
+Mã ngành: 7480102 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ đa phương tiện | Mã: 7329001
+Tên ngành: Công nghệ đa phương tiện
+Mã ngành: 7329001 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 260 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 140 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Tổng chỉ tiêu cả 2 cơ sở: 400 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Thiết kế và phát triển Game | Mã: 7329001_GAM
+Tên ngành: Thiết kế và Phát triển Game
+Mã ngành: 7329001_GAM | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 200 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ đa phương tiện Liên kết Canberra | Mã: 7329001_LK
+Tên ngành: Công nghệ đa phương tiện (Liên kết Đại học Canberra, Australia)
+Mã ngành: 7329001_LK | Chương trình: Liên kết quốc tế
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 15 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Truyền thông đa phương tiện | Mã: 7320104
+Tên ngành: Truyền thông đa phương tiện
+Mã ngành: 7320104 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 80 sinh viên | Tổ hợp: A00, A01, X06, X26
+Tổng chỉ tiêu cả 2 cơ sở: 200 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Truyền thông đa phương tiện Chất lượng cao | Mã: 7320104_CLC
+Tên ngành: Truyền thông đa phương tiện - Chất lượng cao (CLC)
+Mã ngành: 7320104_CLC | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 90 sinh viên | Tổ hợp: A00, A01, X06, X26
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Truyền thông đa phương tiện Liên kết Queensland | Mã: 7320104_LK
+Tên ngành: Truyền thông đa phương tiện (Liên kết Đại học Công nghệ Queensland, Úc)
+Mã ngành: 7320104_LK | Chương trình: Liên kết quốc tế
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 15 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Báo chí | Mã: 7320101
+Tên ngành: Báo chí (Báo chí số)
+Mã ngành: 7320101 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 90 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Quản trị kinh doanh | Mã: 7340101
+Tên ngành: Quản trị kinh doanh
+Mã ngành: 7340101 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 200 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 130 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Tổng chỉ tiêu cả 2 cơ sở: 330 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Logistics và Quản trị chuỗi cung ứng | Mã: 7340101_LOG
+Tên ngành: Logistics và Quản trị chuỗi cung ứng (Supply Chain)
+Mã ngành: 7340101_LOG | Chương trình: Đặc thù
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 100 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Thương mại điện tử | Mã: 7340122
+Tên ngành: Thương mại điện tử (E-Commerce)
+Mã ngành: 7340122 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 170 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Marketing | Mã: 7340115
+Tên ngành: Marketing (Tiếp thị)
+Mã ngành: 7340115 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 240 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Tổng chỉ tiêu cả 2 cơ sở: 360 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Marketing Chất lượng cao | Mã: 7340115_CLC
+Tên ngành: Marketing - Chất lượng cao (CLC)
+Mã ngành: 7340115_CLC | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 40 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Tổng chỉ tiêu cả 2 cơ sở: 160 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Quan hệ công chúng | Mã: 7340115_QHC
+Tên ngành: Quan hệ công chúng (PR - Public Relations)
+Mã ngành: 7340115_QHC | Chương trình: Đặc thù
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 100 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Kế toán | Mã: 7340301
+Tên ngành: Kế toán
+Mã ngành: 7340301 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 180 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Cơ sở TP.HCM (BVS): Chỉ tiêu 2025 = 120 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Tổng chỉ tiêu cả 2 cơ sở: 300 sinh viên
+---
+
+--- CHỈ TIÊU NGÀNH: Kế toán Chất lượng cao chuẩn ACCA | Mã: 7340301_CLC
+Tên ngành: Kế toán Chất lượng cao (chuẩn quốc tế ACCA)
+Mã ngành: 7340301_CLC | Chương trình: Chất lượng cao (CLC)
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 60 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ tài chính Fintech | Mã: 7340205
+Tên ngành: Công nghệ tài chính (Fintech)
+Mã ngành: 7340205 | Chương trình: Đại trà
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 150 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+Chỉ đào tạo tại cơ sở Hà Nội (BVH)
+---
+
+--- CHỈ TIÊU NGÀNH: Công nghệ tài chính Liên kết Huddersfield | Mã: 7340205_LK
+Tên ngành: Công nghệ tài chính (Liên kết Đại học Huddersfield, Vương quốc Anh)
+Mã ngành: 7340205_LK | Chương trình: Liên kết quốc tế
+Cơ sở Hà Nội (BVH): Chỉ tiêu 2025 = 15 sinh viên | Tổ hợp: A00, A01, X06, X26, D01
+---

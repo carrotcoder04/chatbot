@@ -1,9 +1,0 @@
-Ngành: Marketing
-- Năm tuyển sinh: 2025
-- Mã xét tuyển: 7340115_CLC
-- Mã ngành: 7340115
-- Nhóm ngành: Marketing
-- Loại chương trình: CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ
-- Chỉ tiêu tuyển sinh: 40 sinh viên
-- Tổ hợp xét tuyển: A00, A01, X06, X26, D01
-- Mô tả: Ngành "Marketing" thuộc loại hình "CHƯƠNG TRÌNH CHẤT LƯỢNG CAO, ĐẶC THÙ". Mã xét tuyển: 7340115_CLC. Mã ngành: 7340115 - Nhóm ngành: Marketing. Chỉ tiêu dự kiến: 40 sinh viên. Tổ hợp xét tuyển: Toán, Lý, Hóa (mã A00); Toán, Lý, Anh (mã A01); Toán, Lý, Tin (mã X06); Toán, Tin, Anh (mã X26); Toán, Văn, Anh (mã D01).
