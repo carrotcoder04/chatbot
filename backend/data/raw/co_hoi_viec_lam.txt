@@ -1,0 +1,105 @@
+--- CƠ HỘI VIỆC LÀM PTIT - TỔNG QUAN
+Học viện Công nghệ Bưu chính Viễn thông (PTIT) thuộc top trường đào tạo CNTT tốt nhất Việt Nam với tỷ lệ việc làm cao sau tốt nghiệp:
+- Gần 93% sinh viên có việc làm trong vòng 6 tháng sau tốt nghiệp
+- 68.3% có việc làm ngay sau khi ra trường
+- 24.4% có việc làm trong vòng 3–6 tháng
+Ngành IT, An toàn thông tin gần như không lo thất nghiệp nếu tốt nghiệp đúng hạn và học tốt.
+PTIT trực thuộc Bộ Thông tin & Truyền thông — lợi thế lớn trong kết nối doanh nghiệp công nghệ.
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Tỷ lệ có việc làm theo ngành
+Theo số liệu công bố năm 2023 của PTIT:
+- An toàn thông tin (ATTT): ~100% có việc làm
+- Công nghệ thông tin (CNTT): ~98.28% có việc làm
+- Công nghệ Kỹ thuật Điện, Điện tử: ~97.96% có việc làm
+- Kỹ thuật Điện tử Viễn thông: ~95.54% có việc làm
+- Công nghệ đa phương tiện: ~97.78% có việc làm
+Theo khảo sát chung toàn trường:
+- 93% sinh viên có việc làm sau 6 tháng tốt nghiệp
+- Ngành IT và An ninh mạng có tỷ lệ cao nhất, gần 100%
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Mức lương khởi điểm sau tốt nghiệp
+Theo khảo sát sinh viên tốt nghiệp PTIT:
+- 5–10 triệu đồng/tháng: khoảng 48–68% sinh viên (mức phổ biến)
+- ≥ 10 triệu đồng/tháng: khoảng 20–30% sinh viên
+- ≥ 15–25 triệu đồng/tháng: sinh viên IT giỏi, biết tiếng Anh, có kỹ năng thực chiến cao
+Mức lương theo ngành (tham khảo):
+- Lập trình viên (fresher): 8–15 triệu/tháng
+- AI Engineer / Data Engineer: 12–25 triệu/tháng
+- Cyber Security / Pentester: 10–20 triệu/tháng
+- Network / Telecom Engineer: 8–15 triệu/tháng
+Sau 2–3 năm kinh nghiệm, mức lương có thể tăng lên 20–40 triệu/tháng đối với ngành IT.
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Các vị trí công việc phổ biến sau tốt nghiệp
+Sinh viên PTIT sau tốt nghiệp thường đảm nhận các vị trí:
+
+Lĩnh vực Công nghệ thông tin (CNTT):
+- Lập trình viên Backend / Frontend / Mobile / Fullstack
+- AI Engineer (Kỹ sư Trí tuệ nhân tạo)
+- Data Engineer / Data Scientist (Kỹ thuật dữ liệu)
+- DevOps / Cloud Engineer
+
+Lĩnh vực An ninh mạng (An toàn thông tin):
+- Cyber Security Engineer
+- Penetration Tester (Pentester)
+- SOC Analyst (Security Operations Center)
+- Security Architect
+
+Lĩnh vực Viễn thông & Điện tử:
+- Network Engineer (Kỹ sư mạng)
+- Embedded Systems Engineer (Kỹ sư nhúng)
+- Telecom Engineer (Kỹ sư viễn thông)
+- IoT Engineer
+
+Lĩnh vực Kinh doanh & Công nghệ:
+- Chuyên viên Marketing Digital
+- Business Analyst (BA)
+- Product Manager (PM)
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Doanh nghiệp tuyển dụng sinh viên PTIT
+PTIT có liên kết và hợp tác tuyển dụng với nhiều tập đoàn công nghệ lớn trong và ngoài nước:
+
+Doanh nghiệp trong nước:
+- Viettel: Viễn thông, an ninh mạng, phòng thủ số
+- FPT Software / FPT IS: Phần mềm, outsourcing quốc tế
+- VNPT: Viễn thông, hạ tầng mạng quốc gia
+- VNG (Zalo, ZaloPay): Công nghệ, Fintech
+- MoMo: Thanh toán điện tử, Fintech
+- Techcombank, VPBank, MB Bank: Banking Technology
+
+Doanh nghiệp nước ngoài:
+- Samsung Vietnam: Điện tử, bán dẫn, R&D
+- Google: Thực tập qua chương trình GDSC (Google Developer Student Club)
+- Amazon (AWS): Cloud, thực tập kỹ thuật
+- Naver Vietnam: AI, tìm kiếm
+- Panasonic, LG, NTT Data (Nhật Bản): Kỹ thuật, outsourcing
+
+Hình thức hợp tác:
+- Thực tập từ năm 3–4 với lương thực tập
+- Đặt hàng đề tài nghiên cứu / đồ án tốt nghiệp
+- Nhận học bổng và tuyển dụng sớm sau tốt nghiệp
+- Tổ chức Job Fair trực tiếp tại trường hàng năm
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Cổng thông tin việc làm AI
+PTIT vận hành Cổng thông tin việc làm sử dụng AI — công cụ hỗ trợ sinh viên tìm việc:
+- Hơn 41.000 cơ hội việc làm trong 14 lĩnh vực từ hàng trăm doanh nghiệp
+- Tìm việc làm bán thời gian, toàn thời gian và thực tập
+- Công cụ tạo CV thông minh
+- Bài kiểm tra MBTI, MI (trắc nghiệm hướng nghiệp)
+- Tính toán lương, mức lương trung bình theo ngành và địa phương
+Được xây dựng bởi Trung tâm Đổi mới Sáng tạo và Khởi nghiệp PTIT (PTIT Innovation & Entrepreneurship Center).
+---
+
+--- CƠ HỘI VIỆC LÀM PTIT - Lý do sinh viên PTIT dễ xin việc
+Những lợi thế đặc biệt của sinh viên PTIT khi ra thị trường lao động:
+1. Thương hiệu trường: PTIT trực thuộc Bộ Thông tin & Truyền thông — uy tín trong ngành ICT
+2. Chuyên môn sâu: Ngành học tập trung vào IT, AI, An ninh mạng — lĩnh vực nhu cầu cao nhất hiện nay
+3. Thực hành nhiều: Nhiều lab doanh nghiệp (Samsung, Viettel, FPT...) trực tiếp trong trường
+4. Mạng lưới alumni: Cựu sinh viên PTIT đang làm ở khắp các công ty lớn, dễ kết nối
+5. Thị trường tăng trưởng: Nhu cầu nhân lực CNTT, AI, bảo mật tăng mạnh trong bối cảnh chuyển đổi số quốc gia
+6. Chương trình liên kết quốc tế: Bằng kép với La Trobe (Úc), Huddersfield (Anh), Queensland (Úc) giúp mở rộng cơ hội quốc tế
+---
